@@ -1,0 +1,43 @@
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Bot Application.dll.config
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Bot Application.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Bot Application.pdb
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Autofac.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Chronic.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.Bot.Builder.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.Bot.Connector.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Newtonsoft.Json.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\System.Net.Http.Formatting.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\System.Web.Http.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\System.Web.Http.WebHost.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Autofac.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.Bot.Builder.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.Bot.Connector.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\Newtonsoft.Json.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\System.Net.Http.Formatting.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\System.Web.Http.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\System.Web.Http.WebHost.xml
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\obj\Debug\OTG0717-McTeamFaceBot.csprojResolveAssemblyReference.cache
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\obj\Debug\Bot Application.dll
+c:\users\dave.marino\documents\visual studio 2017\Projects\OTG0717-McTeamFaceBot\OTG0717-McTeamFaceBot\obj\Debug\Bot Application.pdb
