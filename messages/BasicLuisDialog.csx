@@ -1,6 +1,6 @@
 using System;
 using System.Threading.Tasks;
-using System.Linq;
+
 using Microsoft.Bot.Builder.Azure;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Builder.Luis;
@@ -17,21 +17,16 @@ public class BasicLuisDialog : LuisDialog<object>
     [LuisIntent("None")]
     public async Task NoneIntent(IDialogContext context, LuisResult result)
     {
-        await context.PostAsync($"You have reached the none intent! You said: {result.Query}");
+        await context.PostAsync($"You have reached the none intent! You said: {result.Query}"); //
         context.Wait(MessageReceived);
     }
 
+    // Go to https://luis.ai and create a new intent, then train/publish your luis app.
+    // Finally replace "MyIntent" with the name of your newly created intent in the following handler
     [LuisIntent("GuessWhat")]
-    public async Task GuessWhat(IDialogContext context, LuisResult result)
+    public async Task MyIntent(IDialogContext context, LuisResult result)
     {
-        await context.PostAsync($"Chicken Butt");
-        context.Wait(MessageReceived);
-    }
-
-    [LuisIntent("GivingAmount")]
-    public async Task GivingAmount(IDialogContext context, LuisResult result)
-    {
-        await context.PostAsync($"{result.Entities.Where(enitity => entity === "constituentName").First()} has given $40.");
+        await context.PostAsync($"Chicken Butt"); //
         context.Wait(MessageReceived);
     }
 }
