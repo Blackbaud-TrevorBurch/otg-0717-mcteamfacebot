@@ -32,7 +32,7 @@ public class BasicLuisDialog : LuisDialog<object>
     public async Task GivingAmount(IDialogContext context, LuisResult result)
     {
         var entities = new List<EntityRecommendation>(result.Entities);
-        await context.PostAsync($"{entities.First().Entity} has given $40.");
+        await context.PostAsync($"{entities.First().Resolution.First().Value} has given $40.");
         context.Wait(MessageReceived);
     }
 }
