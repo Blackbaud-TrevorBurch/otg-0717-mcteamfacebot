@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="otg0717-mcteamface" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\dave\.marino\\documents\\visual\ studio\ 2017\\Projects\\OTG0717-McTeamFaceBot\\OTG0717-McTeamFaceBot\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\dave\.marino\\documents\\visual\ studio\ 2017\\Projects\\OTG0717-McTeamFaceBot\\OTG0717-McTeamFaceBot\\obj\\Release\\Package\\PackageTmp$" />
-  </parameter>
-</parameters>
