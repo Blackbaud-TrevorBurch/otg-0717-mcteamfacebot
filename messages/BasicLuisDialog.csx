@@ -31,7 +31,8 @@ public class BasicLuisDialog : LuisDialog<object>
     [LuisIntent("GivingAmount")]
     public async Task GivingAmount(IDialogContext context, LuisResult result)
     {
-        await context.PostAsync($"{(result.Entities as List<EntityRecommendation>).Where(enitityRecommendation => enitityRecommendation.Type == "constituentName").First().Entity} has given $40.");
+        var entities = new List<EntityRecommendation>(result.Entities);
+        await context.PostAsync($"{entities.First().Entity} has given $40.");
         context.Wait(MessageReceived);
     }
 }
